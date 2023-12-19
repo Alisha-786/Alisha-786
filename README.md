@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **my skills everyday**
  
- 🌱 I’m currently learning **Data Structures and Object Oriented Programming**
+ 🌱 I’m currently learning **Full Stack Development**
 
  💬 Ask me about **C, C++ [here](https://github.com/Alisha-786/Alisha-786/issues)**
 
@@ -26,6 +26,9 @@
   </a>
   <a href="https://www.linkedin.com/in/alisha-parveen-a7a718286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+     <a href="https://twitter.com/alisha_7865" target="_blank">
+    <img src="https://img.shields.io/badge/-333333?style=for-the-badge&logo=x&logoColor=Black" />
   </a>
   <!-- this is a website link for a website of your portfolio--- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options --> -->
