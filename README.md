@@ -11,7 +11,7 @@
 <div align="center">
   <p>
     Welcome to my GitHub! I'm passionate about building robust and user-friendly applications.
-    Currently, I'm deep-diving into **Full Stack Development**, continuously enhancing my skills and
+    Currently, I'm deep-diving into <b>Full Stack Development</b>, continuously enhancing my skills and
     exploring new technologies. I love solving problems and contributing to exciting projects.
   </p>
 
@@ -19,10 +19,10 @@
 
   <h3>🌱 What I'm Currently Up To</h3>
   <p>
-    🔭 I’m currently working on **strengthening my foundational development skills every day.** <br>
-    📚 I’m diligently learning **Full Stack Development, with a focus on MERN stack.** <br>
-    💬 Ask me about **C, C++, JavaScript, and web development fundamentals** <a href="https://github.com/Alisha-786/Alisha-786/issues" target="_blank" rel="noopener noreferrer">here</a>. <br>
-    ⚡ Fun fact: **The first computer bug was an actual moth found in a relay of the Mark II Aiken Relay Calculator in 1947!**
+    🔭 I’m currently working on <b>strengthening my foundational development skills every day.</b> <br>
+    📚 I’m diligently learning <b>Full Stack Development, with a focus on MERN stack.</b> <br>
+    💬 Ask me about  <b>C, C++, JavaScript, and web development fundamentals </b> <a href="https://github.com/Alisha-786/Alisha-786/issues" target="_blank" rel="noopener noreferrer">here</a>. <br>
+    ⚡ Fun fact:  <b>The first computer bug was an actual moth found in a relay of the Mark II Aiken Relay Calculator in 1947!</b>
   </p>
 
   ---
