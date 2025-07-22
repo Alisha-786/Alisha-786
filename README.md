@@ -53,7 +53,7 @@
 
   <h3>Tools & Version Control</h3>
   <p>My go-to tools for development and collaboration.</p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools & Version Control" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio" alt="Tools & Version Control" />
 </div>
 
 ---
